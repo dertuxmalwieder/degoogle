@@ -791,6 +791,11 @@ operating systems:
       eyes: null
       text: |
         [Ubuntu](https://www.ubuntu.com/); [Debian](https://www.debian.org/); [Mint](https://linuxmint.com/); [Fedora](https://getfedora.org/); [Arch](https://www.archlinux.org/) or [Manjaro](https://manjaro.org/) (Manjaro is objectively much easier to get running than Arch); [Trisquel](https://trisquel.info/);  [Gentoo](https://www.gentoo.org/); [Alpine](https://www.alpinelinux.org/) (thanks u/privacyfreak555); [etc etc etc](https://en.wikipedia.org/wiki/List_of_Linux_distributions)
+    - name: GhostBSD
+      url: https://ghostbsd.org
+      eyes: null
+      text: |
+        A simple, elegant desktop BSD Operating System, based on FreeBSD, a secure server OS.
   wearos:
     - title: Wear OS
     - name: AsteroidOS
